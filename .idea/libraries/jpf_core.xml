@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jpf-core">
+    <CLASSES>
+      <root url="file://$USER_HOME$/projects/jpf/jpf-core" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/projects/jpf/jpf-core/src/annotations" />
+      <root url="file://$USER_HOME$/projects/jpf/jpf-core/src/classes" />
+      <root url="file://$USER_HOME$/projects/jpf/jpf-core/src/examples" />
+      <root url="file://$USER_HOME$/projects/jpf/jpf-core/src/main" />
+      <root url="file://$USER_HOME$/projects/jpf/jpf-core/src/peers" />
+      <root url="file://$USER_HOME$/projects/jpf/jpf-core/src/tests" />
+    </SOURCES>
+  </library>
+</component>
